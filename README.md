@@ -26,3 +26,7 @@ Seems to be fully open source, lightweight css stylings to use as base.
 ## Linux
 * YOCTO
 Create minimal linux cross-hardware
+
+## Hardware
+* Revolution Pi
+* Raspberry pi Compute module
